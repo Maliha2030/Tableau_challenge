@@ -1,10 +1,10 @@
 # Tableau_challenge
 
-Link to Tableau story: https://public.tableau.com/views/TableauCitiBikeAnalysis_16808704213930/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
-
 CityBike Official brief - Analysis of citibike data for the period between March 2020 and May 2020 to answer the questions:
 1 What is a key demographic of the users who are using citibike?
 2 What station is the most popular for a journey? 
+
+Link to Tableau story: https://public.tableau.com/views/TableauCitiBikeAnalysis_16808704213930/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Analysis
 
