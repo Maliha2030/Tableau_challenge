@@ -1,7 +1,7 @@
 # Tableau_challenge
 
 CityBike Official brief - Analysis of citibike data for the period between March 2020 and May 2020 to answer the questions:
-1 What is a key demographics of users using citibike?
+1 What is a key demographic of the users who are using citibike?
 2 What station is the most popular for a journey? 
 
 ## Dashboard Analysis
